@@ -1,12 +1,12 @@
 # 🚀 Projeto Tetris em Java (POO Avançada)
 
-<img src="src/GamePlay.png" alt="Gameplay do Tetris em Java" width="200"/>
+<img src="Tetriz_Game-main/src/GamePlay.png" alt="Gameplay do Tetris em Java" width="200"/>
 Este projeto é uma implementação completa do clássico jogo Tetris, desenvolvido 100% em Java. O foco principal não é apenas recriar o jogo, mas também aplicar e demonstrar conceitos avançados de engenharia de software e arquitetura limpa.
 
 O sistema foi construído seguindo uma rigorosa separação de camadas, aplicando **Domain-Driven Design (DDD)** para as regras de negócio e **Test-Driven Development (TDD)** para garantir a robustez da lógica.
 
 <p align="center">
-  <img src="src/Resumo.png" alt="Resumo Técnico" width="500"/>
+  <img src="Tetriz_Game-main/src/Resumo.png" alt="Resumo Técnico" width="500"/>
 </p>
 
 ---
